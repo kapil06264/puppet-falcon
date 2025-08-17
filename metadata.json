@@ -67,6 +67,13 @@
       ]
     },
     {
+      "operatingsystem": "SLES",
+      "operatingsystemrelease": [
+        "12",
+        "15"
+      ]
+    },
+    {
       "operatingsystem": "Windows",
       "operatingsystemrelease": [
         "2019",
